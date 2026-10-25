@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RadiusPilot changelog</title>
+  <subtitle>What’s new in RadiusPilot</subtitle>
+  <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
+  <link href="https://docodo10.github.io/radiuspilot-site/changelog/"/>
+  <link rel="self" href="https://docodo10.github.io/radiuspilot-site/changelog/feed.xml"/>
+  <updated>2026-10-25T12:00:00Z</updated>
+  <author><name>RadiusPilot</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#website-pages</id>
+    <title>A bigger website</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#website-pages"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>The website grew from one page to a full site.</summary>
+    <content type="html">&lt;p&gt;The website grew from one page to a full site.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pages for the product, the tools, solutions, pricing with a full comparison, and this changelog&lt;/li&gt;&lt;li&gt;A help center with step-by-step guides&lt;/li&gt;&lt;li&gt;A live demo page that runs the real app on sample data, on a computer&lt;/li&gt;&lt;li&gt;Security, privacy and terms pages&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#published-contacts</id>
+    <title>Published contacts</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#published-contacts"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>The eighth tool: the phone, email, form and social links a business publishes on its own website, with the page each one is on.</summary>
+    <content type="html">&lt;p&gt;The eighth tool: the phone, email, form and social links a business publishes on its own website, with the page each one is on.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reads the homepage, its sitemap and up to four contact, about or team pages&lt;/li&gt;&lt;li&gt;Marks role and personal addresses, addresses found only in a page’s code, and “do not solicit” statements&lt;/li&gt;&lt;li&gt;“Save to business” keeps each address with its page and the date&lt;/li&gt;&lt;li&gt;A “Before you write” checklist for Canada’s anti-spam law, which says it isn’t legal advice&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#unsubscribe-always</id>
+    <title>The unsubscribe line is always on</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#unsubscribe-always"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>Every outreach email now carries your mailing address and an unsubscribe line. The setting that could switch it off is gone.</summary>
+    <content type="html">&lt;p&gt;Every outreach email now carries your mailing address and an unsubscribe line. The setting that could switch it off is gone.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Client emails are left as they are&lt;/li&gt;&lt;li&gt;Templates with their own unsubscribe link keep it instead&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#free-tools</id>
+    <title>Seven free tools</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#free-tools"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>A Tools section in the sidebar, free on every plan, for checking a business’s website and making something for it.</summary>
+    <content type="html">&lt;p&gt;A Tools section in the sidebar, free on every plan, for checking a business’s website and making something for it.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Site speed, with Google PageSpeed&lt;/li&gt;&lt;li&gt;Email health: MX, SPF, DKIM and DMARC&lt;/li&gt;&lt;li&gt;Site technology: about 130 technologies, with what’s out of date&lt;/li&gt;&lt;li&gt;Site history, from the Internet Archive&lt;/li&gt;&lt;li&gt;QR codes, Colour kit and Post maker, made on your computer&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#redesign</id>
+    <title>A new sign-in, first run and home</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#redesign"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>The app got a new frame and a calmer home screen.</summary>
+    <content type="html">&lt;p&gt;The app got a new frame and a calmer home screen.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Email-first sign-in, with two-step verification and backup codes&lt;/li&gt;&lt;li&gt;A five-step first run with a live preview of your workspace&lt;/li&gt;&lt;li&gt;A new sidebar with sections that fold, and a breadcrumb bar on every page&lt;/li&gt;&lt;li&gt;Home with quick links, recents and sticky notes; Your work with leads, scans, reports and activity&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#website</id>
+    <title>The website, with the real app inside</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#website"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>This website went live, with the app itself running on sample data at the top of the home page.</summary>
+    <content type="html">&lt;p&gt;This website went live, with the app itself running on sample data at the top of the home page.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Light and dark, sized for laptops, tablets and phones&lt;/li&gt;&lt;li&gt;The live preview opens on the home screen and keeps the main screens one click away&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#first-version</id>
+    <title>RadiusPilot 1.0</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#first-version"/>
+    <updated>2026-10-25T12:00:00Z</updated>
+    <summary>The first version, in one Windows app.</summary>
+    <content type="html">&lt;p&gt;The first version, in one Windows app.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Real scans of OpenStreetMap, free and with no API key, plus sample markets to try every screen&lt;/li&gt;&lt;li&gt;Opportunity scores from the facts found, ScopeMap, businesses, opportunities and analytics&lt;/li&gt;&lt;li&gt;Mail from your own mailbox, sequences, an email builder, offers and proposals&lt;/li&gt;&lt;li&gt;AI Builder drafts, a pipeline, tasks, reports and clients&lt;/li&gt;&lt;li&gt;Six interface languages, light and dark&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+</feed>
