@@ -5,8 +5,64 @@
   <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
   <link href="https://docodo10.github.io/radiuspilot-site/changelog/"/>
   <link rel="self" href="https://docodo10.github.io/radiuspilot-site/changelog/feed.xml"/>
-  <updated>2026-10-25T12:00:00Z</updated>
+  <updated>2026-10-26T12:00:00Z</updated>
   <author><name>RadiusPilot</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#test-download</id>
+    <title>A test version to download</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#test-download"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>RadiusPilot for Windows can be downloaded as a test version: a zip with the app, nothing to install.</summary>
+    <content type="html">&lt;p&gt;RadiusPilot for Windows can be downloaded as a test version: a zip with the app, nothing to install.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It hasn’t run on a real Windows computer yet, and it isn’t code-signed&lt;/li&gt;&lt;li&gt;Your workspaces stay on your PC&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#ai-own-account</id>
+    <title>AI writing with your own account</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#ai-own-account"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>In the Windows app, RadiusPilot can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.</summary>
+    <content type="html">&lt;p&gt;In the Windows app, RadiusPilot can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Emails, website copy, edits in the website editor, automation steps and market report text&lt;/li&gt;&lt;li&gt;Everything it writes is labelled AI-generated, and nothing is sent without you&lt;/li&gt;&lt;li&gt;A daily limit for the analysis it runs in the background&lt;/li&gt;&lt;li&gt;Report figures stay RadiusPilot’s own: the AI’s text has no numbers in it&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#website-editor</id>
+    <title>A website editor for AI Builder</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#website-editor"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>Open an AI Builder site on a canvas and edit it like a design tool.</summary>
+    <content type="html">&lt;p&gt;Open an AI Builder site on a canvas and edit it like a design tool.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Layers, blocks, an inspector and three screen sizes&lt;/li&gt;&lt;li&gt;Components you reuse across pages, with their own text on each copy&lt;/li&gt;&lt;li&gt;An image library for your photos and logos&lt;/li&gt;&lt;li&gt;Alt to measure, align and distribute, hover and pressed states&lt;/li&gt;&lt;li&gt;Export the site as HTML&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#automations</id>
+    <title>Automations</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#automations"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>Workflows that run on their own: a trigger, then the steps you choose.</summary>
+    <content type="html">&lt;p&gt;Workflows that run on their own: a trigger, then the steps you choose.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Start from a template, or write the steps as a sentence&lt;/li&gt;&lt;li&gt;Schedules, conditions, and approvals before anything is sent&lt;/li&gt;&lt;li&gt;Sequences now live here&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#diagnosis-import</id>
+    <title>One-click diagnosis and CSV import</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#diagnosis-import"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>Check a business’s website in one click, and bring in the businesses you already have.</summary>
+    <content type="html">&lt;p&gt;Check a business’s website in one click, and bring in the businesses you already have.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Diagnosis: speed, email health, technology and history, graded A to F, with lines for your pitch&lt;/li&gt;&lt;li&gt;Import businesses, prospects and clients from a CSV file, from Excel, Google Sheets or your CRM&lt;/li&gt;&lt;li&gt;Imported businesses get no made-up scores&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#simpler-app</id>
+    <title>A simpler menu and a new Analytics</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#simpler-app"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>The sidebar went from about 30 entries to 18, and the app starts faster.</summary>
+    <content type="html">&lt;p&gt;The sidebar went from about 30 entries to 18, and the app starts faster.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Today holds your plan, tasks, summary and activity; Inbox holds mail and messages&lt;/li&gt;&lt;li&gt;Businesses holds the best opportunities, and Reports moved into AI Builder&lt;/li&gt;&lt;li&gt;Analytics: five numbers against the previous period, a daily or weekly chart, and highlights&lt;/li&gt;&lt;li&gt;Pages load when you open them, so the first screen shows sooner&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#storage-tools</id>
+    <title>No storage limit, and Tools in six languages</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#storage-tools"/>
+    <updated>2026-10-26T12:00:00Z</updated>
+    <summary>Bigger workspaces, backups, and Tools pages in every interface language.</summary>
+    <content type="html">&lt;p&gt;Bigger workspaces, backups, and Tools pages in every interface language.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Workspaces are saved as files on your PC, past the browser’s 5 MB limit&lt;/li&gt;&lt;li&gt;Back up and restore them in Settings, then Data&lt;/li&gt;&lt;li&gt;The Tools pages in French, Spanish, German, Portuguese and Italian&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#website-pages</id>
     <title>A bigger website</title>
@@ -21,7 +77,7 @@
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#published-contacts"/>
     <updated>2026-10-25T12:00:00Z</updated>
     <summary>The eighth tool: the phone, email, form and social links a business publishes on its own website, with the page each one is on.</summary>
-    <content type="html">&lt;p&gt;The eighth tool: the phone, email, form and social links a business publishes on its own website, with the page each one is on.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reads the homepage, its sitemap and up to four contact, about or team pages&lt;/li&gt;&lt;li&gt;Marks role and personal addresses, addresses found only in a page’s code, and “do not solicit” statements&lt;/li&gt;&lt;li&gt;“Save to business” keeps each address with its page and the date&lt;/li&gt;&lt;li&gt;A “Before you write” checklist for Canada’s anti-spam law, which says it isn’t legal advice&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;p&gt;The eighth tool: the phone, email, form and social links a business publishes on its own website, with the page each one is on.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reads the homepage and up to five contact, about or team pages of the same site&lt;/li&gt;&lt;li&gt;Marks role and personal-looking addresses, and pages that say they don’t want unsolicited messages&lt;/li&gt;&lt;li&gt;Addresses a site hides from robots aren’t decoded: you get the page to open instead&lt;/li&gt;&lt;li&gt;“Use as business email” keeps the address with the page it came from&lt;/li&gt;&lt;li&gt;A “Before you write” reminder about Canada’s anti-spam law&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#unsubscribe-always</id>
