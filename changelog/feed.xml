@@ -69,7 +69,7 @@
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#website-pages"/>
     <updated>2026-10-25T12:00:00Z</updated>
     <summary>The website grew from one page to a full site.</summary>
-    <content type="html">&lt;p&gt;The website grew from one page to a full site.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pages for the product, the tools, solutions, pricing with a full comparison, and this changelog&lt;/li&gt;&lt;li&gt;A help center with step-by-step guides&lt;/li&gt;&lt;li&gt;A live demo page that runs the real app on sample data, on a computer&lt;/li&gt;&lt;li&gt;Security, privacy and terms pages&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;p&gt;The website grew from one page to a full site.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Pages for the product, the tools, solutions, pricing with a full comparison, and this changelog&lt;/li&gt;&lt;li&gt;A help center with step-by-step guides&lt;/li&gt;&lt;li&gt;A live demo page that runs the real app in the browser, on a computer&lt;/li&gt;&lt;li&gt;Security, privacy and terms pages&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#published-contacts</id>
@@ -89,11 +89,11 @@
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#free-tools</id>
-    <title>Seven free tools</title>
+    <title>Seven tools</title>
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#free-tools"/>
     <updated>2026-10-25T12:00:00Z</updated>
-    <summary>A Tools section in the sidebar, free on every plan, for checking a business’s website and making something for it.</summary>
-    <content type="html">&lt;p&gt;A Tools section in the sidebar, free on every plan, for checking a business’s website and making something for it.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Site speed, with Google PageSpeed&lt;/li&gt;&lt;li&gt;Email health: MX, SPF, DKIM and DMARC&lt;/li&gt;&lt;li&gt;Site technology: about 130 technologies, with what’s out of date&lt;/li&gt;&lt;li&gt;Site history, from the Internet Archive&lt;/li&gt;&lt;li&gt;QR codes, Colour kit and Post maker, made on your computer&lt;/li&gt;&lt;/ul&gt;</content>
+    <summary>A Tools section in the sidebar, on every plan, for checking a business’s website and making something for it.</summary>
+    <content type="html">&lt;p&gt;A Tools section in the sidebar, on every plan, for checking a business’s website and making something for it.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Site speed, with Google PageSpeed&lt;/li&gt;&lt;li&gt;Email health: MX, SPF, DKIM and DMARC&lt;/li&gt;&lt;li&gt;Site technology: about 130 technologies, with what’s out of date&lt;/li&gt;&lt;li&gt;Site history, from the Internet Archive&lt;/li&gt;&lt;li&gt;QR codes, Colour kit and Post maker, made on your computer&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#redesign</id>
@@ -108,8 +108,8 @@
     <title>The website, with the real app inside</title>
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#website"/>
     <updated>2026-10-25T12:00:00Z</updated>
-    <summary>This website went live, with the app itself running on sample data at the top of the home page.</summary>
-    <content type="html">&lt;p&gt;This website went live, with the app itself running on sample data at the top of the home page.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Light and dark, sized for laptops, tablets and phones&lt;/li&gt;&lt;li&gt;The live preview opens on the home screen and keeps the main screens one click away&lt;/li&gt;&lt;/ul&gt;</content>
+    <summary>This website went live, with the app itself running at the top of the home page.</summary>
+    <content type="html">&lt;p&gt;This website went live, with the app itself running at the top of the home page.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Light and dark, sized for laptops, tablets and phones&lt;/li&gt;&lt;li&gt;The live preview opens on the home screen and keeps the main screens one click away&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#first-version</id>
@@ -117,6 +117,6 @@
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#first-version"/>
     <updated>2026-10-25T12:00:00Z</updated>
     <summary>The first version, in one Windows app.</summary>
-    <content type="html">&lt;p&gt;The first version, in one Windows app.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Real scans of OpenStreetMap, free and with no API key, plus sample markets to try every screen&lt;/li&gt;&lt;li&gt;Opportunity scores from the facts found, ScopeMap, businesses, opportunities and analytics&lt;/li&gt;&lt;li&gt;Mail from your own mailbox, sequences, an email builder, offers and proposals&lt;/li&gt;&lt;li&gt;AI Builder drafts, a pipeline, tasks, reports and clients&lt;/li&gt;&lt;li&gt;Six interface languages, light and dark&lt;/li&gt;&lt;/ul&gt;</content>
+    <content type="html">&lt;p&gt;The first version, in one Windows app.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Real scans with no API key, plus demo markets to try every screen&lt;/li&gt;&lt;li&gt;Opportunity scores from the facts found, ScopeMap, businesses, opportunities and analytics&lt;/li&gt;&lt;li&gt;Mail from your own mailbox, sequences, an email builder, offers and proposals&lt;/li&gt;&lt;li&gt;AI Builder drafts, a pipeline, tasks, reports and clients&lt;/li&gt;&lt;li&gt;Six interface languages, light and dark&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
 </feed>
