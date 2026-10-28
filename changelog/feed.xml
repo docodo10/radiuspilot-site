@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>RadiusPilot changelog</title>
-  <subtitle>What’s new in RadiusPilot</subtitle>
+  <title>Pitchable changelog</title>
+  <subtitle>What’s new in Pitchable</subtitle>
   <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
   <link href="https://docodo10.github.io/radiuspilot-site/changelog/"/>
   <link rel="self" href="https://docodo10.github.io/radiuspilot-site/changelog/feed.xml"/>
-  <updated>2026-10-26T12:00:00Z</updated>
-  <author><name>RadiusPilot</name></author>
+  <updated>2026-10-28T12:00:00Z</updated>
+  <author><name>Pitchable</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#new-name</id>
+    <title>RadiusPilot is now Pitchable</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#new-name"/>
+    <updated>2026-10-28T12:00:00Z</updated>
+    <summary>Same app, same P logo, a new name for what it helps you do: find the local businesses worth pitching, and pitch them with facts.</summary>
+    <content type="html">&lt;p&gt;Same app, same P logo, a new name for what it helps you do: find the local businesses worth pitching, and pitch them with facts.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Your workspaces, settings and sign-ins carry over: on its first start, the app moves its data folder to %LOCALAPPDATA%\Pitchable&lt;/li&gt;&lt;li&gt;Backups and CSV exports made under the old name still import&lt;/li&gt;&lt;li&gt;This website keeps its address for now&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#test-download</id>
     <title>A test version to download</title>
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#test-download"/>
     <updated>2026-10-26T12:00:00Z</updated>
-    <summary>RadiusPilot for Windows can be downloaded as a test version: a zip with the app, nothing to install.</summary>
-    <content type="html">&lt;p&gt;RadiusPilot for Windows can be downloaded as a test version: a zip with the app, nothing to install.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It hasn’t run on a real Windows computer yet, and it isn’t code-signed&lt;/li&gt;&lt;li&gt;Your workspaces stay on your PC&lt;/li&gt;&lt;/ul&gt;</content>
+    <summary>Pitchable for Windows can be downloaded as a test version: a zip with the app, nothing to install.</summary>
+    <content type="html">&lt;p&gt;Pitchable for Windows can be downloaded as a test version: a zip with the app, nothing to install.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It hasn’t run on a real Windows computer yet, and it isn’t code-signed&lt;/li&gt;&lt;li&gt;Your workspaces stay on your PC&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#ai-own-account</id>
     <title>AI writing with your own account</title>
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#ai-own-account"/>
     <updated>2026-10-26T12:00:00Z</updated>
-    <summary>In the Windows app, RadiusPilot can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.</summary>
-    <content type="html">&lt;p&gt;In the Windows app, RadiusPilot can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Emails, website copy, edits in the website editor, automation steps and market report text&lt;/li&gt;&lt;li&gt;Everything it writes is labelled AI-generated, and nothing is sent without you&lt;/li&gt;&lt;li&gt;A daily limit for the analysis it runs in the background&lt;/li&gt;&lt;li&gt;Report figures stay RadiusPilot’s own: the AI’s text has no numbers in it&lt;/li&gt;&lt;/ul&gt;</content>
+    <summary>In the Windows app, Pitchable can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.</summary>
+    <content type="html">&lt;p&gt;In the Windows app, Pitchable can write with Codex on your PC, your ChatGPT account or an OpenAI API key. Without one, it keeps using its templates.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Emails, website copy, edits in the website editor, automation steps and market report text&lt;/li&gt;&lt;li&gt;Everything it writes is labelled AI-generated, and nothing is sent without you&lt;/li&gt;&lt;li&gt;A daily limit for the analysis it runs in the background&lt;/li&gt;&lt;li&gt;Report figures stay Pitchable’s own: the AI’s text has no numbers in it&lt;/li&gt;&lt;/ul&gt;</content>
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#website-editor</id>
@@ -113,7 +121,7 @@
   </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#first-version</id>
-    <title>RadiusPilot 1.0</title>
+    <title>Pitchable 1.0</title>
     <link href="https://docodo10.github.io/radiuspilot-site/changelog/#first-version"/>
     <updated>2026-10-25T12:00:00Z</updated>
     <summary>The first version, in one Windows app.</summary>
