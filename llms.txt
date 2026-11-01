@@ -7,6 +7,7 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 ## Product
 - [Product](https://radiuspilot.com/product/): From the first scan to the signed client: scans, scores, outreach, AI Builder drafts, pipeline and reports in one app, on Windows or in your browser.
 - [Tools](https://radiuspilot.com/tools/): A website audit and eight tools in RadiusPilot: site speed, email health, site technology, published contacts, site history, QR codes, brand kits, posts.
+- [Email check: SPF, DKIM and DMARC](https://radiuspilot.com/email-check/): Check any domain’s MX, SPF, DKIM and DMARC records in a few seconds, in your browser: see whether a business can receive email and whether anyone can fake it.
 - [Solutions](https://radiuspilot.com/solutions/): How web design studios, local SEO agencies, ads and social agencies and freelance marketers find and win local clients with RadiusPilot.
 - [Pricing](https://radiuspilot.com/pricing/): Start on Starter at $0, upgrade when it pays. Compare the Starter, Pro and Agency plans. Payments aren’t live yet.
 - [Download](https://radiuspilot.com/download/): Download the RadiusPilot test version for Windows 10 and 11: a zip with the app, nothing to install, with its SHA-256 checksum to check the file.
