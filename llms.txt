@@ -5,43 +5,43 @@
 RadiusPilot is a Windows app and a web app for marketing agencies and freelancers. A scan lists the real businesses of an area from public listings; each business gets an opportunity score from what its web presence is missing (no website, no HTTPS, no online booking, incomplete listing details), and the app drafts outreach, reports and websites from those facts. Ratings and reviews are never invented. Every outreach email carries an unsubscribe line, with a daily limit and an opt-out list (Canada’s anti-spam law, CASL). The Windows version is a test version that has not yet run on a real Windows computer; payments are not live.
 
 ## Product
-- [Product](https://docodo10.github.io/radiuspilot-site/product/): From the first scan to the signed client: scans, scores, outreach, AI Builder drafts, pipeline and reports in one app, on Windows or in your browser.
-- [Tools](https://docodo10.github.io/radiuspilot-site/tools/): A website audit and eight tools in RadiusPilot: site speed, email health, site technology, published contacts, site history, QR codes, brand kits, posts.
-- [Solutions](https://docodo10.github.io/radiuspilot-site/solutions/): How web design studios, local SEO agencies, ads and social agencies and freelance marketers find and win local clients with RadiusPilot.
-- [Pricing](https://docodo10.github.io/radiuspilot-site/pricing/): Start on Starter at $0, upgrade when it pays. Compare the Starter, Pro and Agency plans. Payments aren’t live yet.
-- [Download](https://docodo10.github.io/radiuspilot-site/download/): Download the RadiusPilot test version for Windows 10 and 11: a zip with the app, nothing to install, with its SHA-256 checksum to check the file.
-- [Web app](https://docodo10.github.io/radiuspilot-site/web/): Use RadiusPilot in your browser. Your account and data stay on your device.
-- [Live demo](https://docodo10.github.io/radiuspilot-site/demo/): Try the real RadiusPilot app in your browser on a demo workspace: scans, opportunity scores, outreach drafts and reports, with nothing to install.
-- [Security and data](https://docodo10.github.io/radiuspilot-site/security/): Where RadiusPilot keeps your data, how passwords and mailboxes are protected, and what leaves your computer.
+- [Product](https://radiuspilot.com/product/): From the first scan to the signed client: scans, scores, outreach, AI Builder drafts, pipeline and reports in one app, on Windows or in your browser.
+- [Tools](https://radiuspilot.com/tools/): A website audit and eight tools in RadiusPilot: site speed, email health, site technology, published contacts, site history, QR codes, brand kits, posts.
+- [Solutions](https://radiuspilot.com/solutions/): How web design studios, local SEO agencies, ads and social agencies and freelance marketers find and win local clients with RadiusPilot.
+- [Pricing](https://radiuspilot.com/pricing/): Start on Starter at $0, upgrade when it pays. Compare the Starter, Pro and Agency plans. Payments aren’t live yet.
+- [Download](https://radiuspilot.com/download/): Download the RadiusPilot test version for Windows 10 and 11: a zip with the app, nothing to install, with its SHA-256 checksum to check the file.
+- [Web app](https://radiuspilot.com/web/): Use RadiusPilot in your browser. Your account and data stay on your device.
+- [Live demo](https://radiuspilot.com/demo/): Try the real RadiusPilot app in your browser on a demo workspace: scans, opportunity scores, outreach drafts and reports, with nothing to install.
+- [Security and data](https://radiuspilot.com/security/): Where RadiusPilot keeps your data, how passwords and mailboxes are protected, and what leaves your computer.
 
 ## Guides
-- [How to find local businesses that need a new website](https://docodo10.github.io/radiuspilot-site/guides/find-local-businesses-that-need-a-website/): A step-by-step method for agencies and freelancers: list one neighbourhood’s businesses, check each website, score the gaps and pitch one real fact.
-- [Cold email in Canada: what CASL requires of agencies](https://docodo10.github.io/radiuspilot-site/guides/casl-cold-email-canada/): What Canada’s anti-spam law asks before an agency emails a local business: consent, published addresses, sender details, unsubscribes, records and penalties.
-- [SPF, DKIM and DMARC explained for agency owners](https://docodo10.github.io/radiuspilot-site/guides/spf-dkim-dmarc-explained/): What SPF, DKIM and DMARC do, how to check any domain’s records, what Google and Yahoo require, and how to turn a weak result into a fair first email.
+- [How to find local businesses that need a new website](https://radiuspilot.com/guides/find-local-businesses-that-need-a-website/): A step-by-step method for agencies and freelancers: list one neighbourhood’s businesses, check each website, score the gaps and pitch one real fact.
+- [Cold email in Canada: what CASL requires of agencies](https://radiuspilot.com/guides/casl-cold-email-canada/): What Canada’s anti-spam law asks before an agency emails a local business: consent, published addresses, sender details, unsubscribes, records and penalties.
+- [SPF, DKIM and DMARC explained for agency owners](https://radiuspilot.com/guides/spf-dkim-dmarc-explained/): What SPF, DKIM and DMARC do, how to check any domain’s records, what Google and Yahoo require, and how to turn a weak result into a fair first email.
 
 ## Help center
-- [Install RadiusPilot on Windows](https://docodo10.github.io/radiuspilot-site/help/install/): What you need, how to open the app from the zip, and what to do if Windows warns you.
-- [Your first scan](https://docodo10.github.io/radiuspilot-site/help/first-scan/): Find real businesses around any address in six steps, and see what Starter’s preview scan shows.
-- [Demo data and real data](https://docodo10.github.io/radiuspilot-site/help/demo-data/): How to tell invented data from real businesses, everywhere in the app.
-- [Use RadiusPilot in your browser](https://docodo10.github.io/radiuspilot-site/help/web-app/): The web app: what runs in a browser, what needs the Windows app, where your data lives and how to move it.
-- [Keyboard shortcuts](https://docodo10.github.io/radiuspilot-site/help/shortcuts/): Every keyboard shortcut in RadiusPilot: searching, new scans, jumping between pages, the business lists, mail and call mode. Press ? in the app to see them.
-- [Where the businesses come from](https://docodo10.github.io/radiuspilot-site/help/business-data/): What a real scan finds, why coverage varies, and why some fields stay empty.
-- [Reading ScopeMap](https://docodo10.github.io/radiuspilot-site/help/scopemap/): Every business from your scans on one map, coloured by opportunity or by category.
-- [How the opportunity score works](https://docodo10.github.io/radiuspilot-site/help/opportunity-score/): What the score weighs for real businesses, and what High, Medium and Low mean.
-- [What the website checks look at](https://docodo10.github.io/radiuspilot-site/help/website-checks/): During a scan, the Windows app opens each homepage once and notes a few facts. A website audit checks much more.
-- [Connect your mailbox](https://docodo10.github.io/radiuspilot-site/help/connect-mailbox/): Send and receive from your own address in the Windows app. Your password stays encrypted on your computer.
-- [Email rules: CASL and CAN-SPAM](https://docodo10.github.io/radiuspilot-site/help/email-rules/): What RadiusPilot adds to help you follow anti-spam law, and what stays your job.
-- [Sequences, follow-ups and automations](https://docodo10.github.io/radiuspilot-site/help/sequences/): Sequences plan your follow-ups and wait for you. Automations run the steps you choose.
-- [AI Builder drafts](https://docodo10.github.io/radiuspilot-site/help/ai-builder/): Websites, pitch decks, market reports and lead lists, drafted from what a scan found, then edited in the website editor.
-- [Reports and white-label](https://docodo10.github.io/radiuspilot-site/help/reports/): Market reports with up to nine sections, saved as PDF, in your own colours on the Agency plan.
-- [Published contacts and the law](https://docodo10.github.io/radiuspilot-site/help/published-contacts/): What the tool reads, what it never does, and how it keeps the source of an address you use.
-- [Your RadiusPilot account](https://docodo10.github.io/radiuspilot-site/help/website-account/): Sign in on this website with Google, keep your account secure, follow support tickets, and export or delete your data.
-- [Two-step verification and backup codes](https://docodo10.github.io/radiuspilot-site/help/two-step/): Add an authenticator code to your sign-in in the app, keep backup codes in case you lose your phone, and lock the app when you step away.
-- [Where your data lives, and how to remove it](https://docodo10.github.io/radiuspilot-site/help/your-data/): Your workspace stays on your computer, or in your browser for the web app. What leaves it, how to back it up, and how to delete it.
-- [Plans and billing](https://docodo10.github.io/radiuspilot-site/help/plans-and-billing/): The three plans, how scans are counted, and why payments aren’t live yet.
+- [Install RadiusPilot on Windows](https://radiuspilot.com/help/install/): What you need, how to open the app from the zip, and what to do if Windows warns you.
+- [Your first scan](https://radiuspilot.com/help/first-scan/): Find real businesses around any address in six steps, and see what Starter’s preview scan shows.
+- [Demo data and real data](https://radiuspilot.com/help/demo-data/): How to tell invented data from real businesses, everywhere in the app.
+- [Use RadiusPilot in your browser](https://radiuspilot.com/help/web-app/): The web app: what runs in a browser, what needs the Windows app, where your data lives and how to move it.
+- [Keyboard shortcuts](https://radiuspilot.com/help/shortcuts/): Every keyboard shortcut in RadiusPilot: searching, new scans, jumping between pages, the business lists, mail and call mode. Press ? in the app to see them.
+- [Where the businesses come from](https://radiuspilot.com/help/business-data/): What a real scan finds, why coverage varies, and why some fields stay empty.
+- [Reading ScopeMap](https://radiuspilot.com/help/scopemap/): Every business from your scans on one map, coloured by opportunity or by category.
+- [How the opportunity score works](https://radiuspilot.com/help/opportunity-score/): What the score weighs for real businesses, and what High, Medium and Low mean.
+- [What the website checks look at](https://radiuspilot.com/help/website-checks/): During a scan, the Windows app opens each homepage once and notes a few facts. A website audit checks much more.
+- [Connect your mailbox](https://radiuspilot.com/help/connect-mailbox/): Send and receive from your own address in the Windows app. Your password stays encrypted on your computer.
+- [Email rules: CASL and CAN-SPAM](https://radiuspilot.com/help/email-rules/): What RadiusPilot adds to help you follow anti-spam law, and what stays your job.
+- [Sequences, follow-ups and automations](https://radiuspilot.com/help/sequences/): Sequences plan your follow-ups and wait for you. Automations run the steps you choose.
+- [AI Builder drafts](https://radiuspilot.com/help/ai-builder/): Websites, pitch decks, market reports and lead lists, drafted from what a scan found, then edited in the website editor.
+- [Reports and white-label](https://radiuspilot.com/help/reports/): Market reports with up to nine sections, saved as PDF, in your own colours on the Agency plan.
+- [Published contacts and the law](https://radiuspilot.com/help/published-contacts/): What the tool reads, what it never does, and how it keeps the source of an address you use.
+- [Your RadiusPilot account](https://radiuspilot.com/help/website-account/): Sign in on this website with Google, keep your account secure, follow support tickets, and export or delete your data.
+- [Two-step verification and backup codes](https://radiuspilot.com/help/two-step/): Add an authenticator code to your sign-in in the app, keep backup codes in case you lose your phone, and lock the app when you step away.
+- [Where your data lives, and how to remove it](https://radiuspilot.com/help/your-data/): Your workspace stays on your computer, or in your browser for the web app. What leaves it, how to back it up, and how to delete it.
+- [Plans and billing](https://radiuspilot.com/help/plans-and-billing/): The three plans, how scans are counted, and why payments aren’t live yet.
 
 ## Optional
-- [Changelog](https://docodo10.github.io/radiuspilot-site/changelog/): What’s new in RadiusPilot, release by release: encrypted workspaces, password-protected backups, the web app, and what’s coming next.
-- [About](https://docodo10.github.io/radiuspilot-site/about/): Why RadiusPilot exists, who it is for, and the rules it is built on: honest data, no invented reviews, outreach that respects anti-spam law.
-- [Privacy policy](https://docodo10.github.io/radiuspilot-site/privacy/): How RadiusPilot handles personal information. Draft, to be reviewed before launch.
-- [Terms of use](https://docodo10.github.io/radiuspilot-site/terms/): The terms for using RadiusPilot, the Windows app, the web app and the website account. A draft, to be reviewed before launch.
+- [Changelog](https://radiuspilot.com/changelog/): What’s new in RadiusPilot, release by release: encrypted workspaces, password-protected backups, the web app, and what’s coming next.
+- [About](https://radiuspilot.com/about/): Why RadiusPilot exists, who it is for, and the rules it is built on: honest data, no invented reviews, outreach that respects anti-spam law.
+- [Privacy policy](https://radiuspilot.com/privacy/): How RadiusPilot handles personal information. Draft, to be reviewed before launch.
+- [Terms of use](https://radiuspilot.com/terms/): The terms for using RadiusPilot, the Windows app, the web app and the website account. A draft, to be reviewed before launch.
