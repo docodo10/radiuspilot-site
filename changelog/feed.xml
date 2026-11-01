@@ -5,8 +5,24 @@
   <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
   <link href="https://docodo10.github.io/radiuspilot-site/changelog/"/>
   <link rel="self" href="https://docodo10.github.io/radiuspilot-site/changelog/feed.xml"/>
-  <updated>2026-10-28T12:00:00Z</updated>
+  <updated>2026-11-01T12:00:00Z</updated>
   <author><name>Pitchable</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#safer-data</id>
+    <title>Your data, locked down</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#safer-data"/>
+    <updated>2026-11-01T12:00:00Z</updated>
+    <summary>Workspaces encrypted on your PC, backups protected with a password, and buttons to delete a workspace or your account.</summary>
+    <content type="html">&lt;p&gt;Workspaces encrypted on your PC, backups protected with a password, and buttons to delete a workspace or your account.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windows app: workspace files and your two-step key are encrypted by Windows for your Windows account&lt;/li&gt;&lt;li&gt;Backups are protected with a password (AES-256) by default; without it, nobody can open the file&lt;/li&gt;&lt;li&gt;Delete a workspace in Settings › Data, or your account in Settings › Profile, after confirming it’s you&lt;/li&gt;&lt;li&gt;Many screens fixed on phones and in French, and a summary written by rules no longer says AI&lt;/li&gt;&lt;li&gt;The encryption is checked by tests; the app still hasn’t run on a real Windows PC&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#web-app</id>
+    <title>Pitchable in your browser</title>
+    <link href="https://docodo10.github.io/radiuspilot-site/changelog/#web-app"/>
+    <updated>2026-10-30T12:00:00Z</updated>
+    <summary>The web app runs Pitchable in a browser on your computer, with nothing to install. Your account and your workspaces stay in that browser.</summary>
+    <content type="html">&lt;p&gt;The web app runs Pitchable in a browser on your computer, with nothing to install. Your account and your workspaces stay in that browser.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Real scans, scores, outreach drafts, automations, AI Builder and the website editor&lt;/li&gt;&lt;li&gt;Site speed, Email health, Site history, QR codes, Post maker, and Brand kit from a logo&lt;/li&gt;&lt;li&gt;Website checks during scans, Site technology, Published contacts, sending from your mailbox and AI stay in the Windows app&lt;/li&gt;&lt;li&gt;Move your work to the Windows app with a backup from Settings › Data&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#new-name</id>
     <title>RadiusPilot is now Pitchable</title>

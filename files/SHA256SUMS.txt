@@ -1,0 +1,2 @@
+0e77eecadbfacc4b3e3f07be78c546aee4ac5b05ce40080c9fdec3ede22a18b4  Pitchable-windows-test.zip
+1828eca2fb2da5109f5f009237c0bab952ed66b9db87a1ef09a5ab2da37b67bb  Pitchable/Pitchable.exe
