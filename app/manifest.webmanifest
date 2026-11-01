@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Pitchable",
-  "short_name": "Pitchable",
+  "name": "RadiusPilot",
+  "short_name": "RadiusPilot",
   "description": "Scan a neighbourhood, score each business on what it is missing online, and pitch it with facts.",
   "start_url": "./",
   "scope": "./",

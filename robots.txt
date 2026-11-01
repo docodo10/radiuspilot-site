@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /radiuspilot-site/
+Disallow: /radiuspilot-site/admin/
+Disallow: /radiuspilot-site/app/
+
+Sitemap: https://docodo10.github.io/radiuspilot-site/sitemap.xml

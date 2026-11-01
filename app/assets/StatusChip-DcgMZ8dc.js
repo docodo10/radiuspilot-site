@@ -1,1 +1,0 @@
-import{U as e,W as t}from"./store-DWIqM1-S.js";import{i as n}from"./motion-BM4wSPw6.js";import{j as r}from"./overlays-CyQKEQop.js";var i=n();function a({status:n,size:a=`sm`}){return(0,i.jsx)(r,{tone:t[n],size:a,dot:!0,children:e[n]})}export{a as t};
