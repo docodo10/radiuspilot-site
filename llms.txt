@@ -16,6 +16,7 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Security and data](https://radiuspilot.com/security/): Where RadiusPilot keeps your data, how passwords and mailboxes are protected, and what leaves your computer.
 
 ## Guides
+- [Website audit checklist for pitching a small business](https://radiuspilot.com/guides/website-audit-checklist/): Ten checks to run on a small business’s website before you pitch: what to look at, how to verify it by hand, and how to turn one finding into a fair email.
 - [How to find local businesses that need a new website](https://radiuspilot.com/guides/find-local-businesses-that-need-a-website/): A step-by-step method for agencies and freelancers: list one neighbourhood’s businesses, check each website, score the gaps and pitch one real fact.
 - [Cold email in Canada: what CASL requires of agencies](https://radiuspilot.com/guides/casl-cold-email-canada/): What Canada’s anti-spam law asks before an agency emails a local business: consent, published addresses, sender details, unsubscribes, records and penalties.
 - [SPF, DKIM and DMARC explained for agency owners](https://radiuspilot.com/guides/spf-dkim-dmarc-explained/): What SPF, DKIM and DMARC do, how to check any domain’s records, what Google and Yahoo require, and how to turn a weak result into a fair first email.
