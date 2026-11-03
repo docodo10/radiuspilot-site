@@ -5,8 +5,16 @@
   <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
   <link href="https://radiuspilot.com/changelog/"/>
   <link rel="self" href="https://radiuspilot.com/changelog/feed.xml"/>
-  <updated>2026-11-01T12:00:00Z</updated>
+  <updated>2026-11-03T12:00:00Z</updated>
   <author><name>RadiusPilot</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#v1-beta</id>
+    <title>RadiusPilot 1.0 beta</title>
+    <link href="https://radiuspilot.com/changelog/#v1-beta"/>
+    <updated>2026-11-03T12:00:00Z</updated>
+    <summary>The first version for test clients: RadiusPilot AI built in, beta access on request, and an assistant on this website that answers questions about RadiusPilot.</summary>
+    <content type="html">&lt;p&gt;The first version for test clients: RadiusPilot AI built in, beta access on request, and an assistant on this website that answers questions about RadiusPilot.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;RadiusPilot AI writes outreach, pitches, reports, proposals and posts with nothing to connect, within a daily allowance, in the web app and the Windows app&lt;/li&gt;&lt;li&gt;Codex, ChatGPT or your own API key still come first when you connect one&lt;/li&gt;&lt;li&gt;The website builder opens to beta testers first; everyone else sees it coming soon&lt;/li&gt;&lt;li&gt;Ask for access on the beta page: an AI agent reads each request, and you can ask for a person to review its decision&lt;/li&gt;&lt;li&gt;Ask RadiusPilot, on every page of this website, answers from this website’s own pages&lt;/li&gt;&lt;li&gt;The Windows test version still hasn’t run on a real Windows PC&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#radiuspilot-again</id>
     <title>Pitchable is RadiusPilot again</title>

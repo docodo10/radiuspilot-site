@@ -13,9 +13,11 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Download](https://radiuspilot.com/download/): Download the RadiusPilot test version for Windows 10 and 11: a zip with the app, nothing to install, with its SHA-256 checksum to check the file.
 - [Web app](https://radiuspilot.com/web/): Use RadiusPilot in your browser. Your account and data stay on your device.
 - [Live demo](https://radiuspilot.com/demo/): Try the real RadiusPilot app in your browser on a demo workspace: scans, opportunity scores, outreach drafts and reports, with nothing to install.
+- [Beta access](https://radiuspilot.com/beta/): Request early access to the RadiusPilot website builder, with RadiusPilot AI included in the beta and a direct line to the team.
 - [Security and data](https://radiuspilot.com/security/): Where RadiusPilot keeps your data, how passwords and mailboxes are protected, and what leaves your computer.
 
 ## Guides
+- [What is a good PageSpeed Insights score?](https://radiuspilot.com/guides/good-pagespeed-insights-score/): A Performance score of 90 to 100 is good. What the bands mean, why the score is a lab test, why it moves between runs, and what Google actually measures.
 - [Website audit checklist for pitching a small business](https://radiuspilot.com/guides/website-audit-checklist/): Ten checks to run on a small business’s website before you pitch: what to look at, how to verify it by hand, and how to turn one finding into a fair email.
 - [How to find local businesses that need a new website](https://radiuspilot.com/guides/find-local-businesses-that-need-a-website/): A step-by-step method for agencies and freelancers: list one neighbourhood’s businesses, check each website, score the gaps and pitch one real fact.
 - [Cold email in Canada: what CASL requires of agencies](https://radiuspilot.com/guides/casl-cold-email-canada/): What Canada’s anti-spam law asks before an agency emails a local business: consent, published addresses, sender details, unsubscribes, records and penalties.
