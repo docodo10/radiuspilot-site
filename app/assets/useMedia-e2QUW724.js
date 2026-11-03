@@ -1,1 +1,0 @@
-import{Qu as e,Yu as t}from"./pi-C8c64aYZ.js";var n=e(t(),1);function r(e){return(0,n.useSyncExternalStore)(t=>{let n=window.matchMedia(e);return n.addEventListener(`change`,t),()=>n.removeEventListener(`change`,t)},()=>window.matchMedia(e).matches,()=>!1)}export{r as t};

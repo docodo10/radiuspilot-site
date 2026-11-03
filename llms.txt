@@ -40,7 +40,7 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [AI Builder drafts](https://radiuspilot.com/help/ai-builder/): Websites, pitch decks, market reports and lead lists, drafted from what a scan found, then edited in the website editor.
 - [Reports and white-label](https://radiuspilot.com/help/reports/): Market reports with up to nine sections, saved as PDF, in your own colours on the Agency plan.
 - [Published contacts and the law](https://radiuspilot.com/help/published-contacts/): What the tool reads, what it never does, and how it keeps the source of an address you use.
-- [Your RadiusPilot account](https://radiuspilot.com/help/website-account/): Sign in on this website with Google, keep your account secure, follow support tickets, and export or delete your data.
+- [Your RadiusPilot account](https://radiuspilot.com/help/website-account/): Create an account on this website with your email and a password, keep it secure, follow support tickets, and export or delete your data.
 - [Two-step verification and backup codes](https://radiuspilot.com/help/two-step/): Add an authenticator code to your sign-in in the app, keep backup codes in case you lose your phone, and lock the app when you step away.
 - [Where your data lives, and how to remove it](https://radiuspilot.com/help/your-data/): Your workspace stays on your computer, or in your browser for the web app. What leaves it, how to back it up, and how to delete it.
 - [Plans and billing](https://radiuspilot.com/help/plans-and-billing/): The three plans and the credits they include, how scans are counted, and why payments aren’t live yet.
