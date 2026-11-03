@@ -9,7 +9,8 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Tools](https://radiuspilot.com/tools/): A website audit and eight tools in RadiusPilot: site speed, email health, site technology, published contacts, site history, QR codes, brand kits, posts.
 - [Email check: SPF, DKIM and DMARC](https://radiuspilot.com/email-check/): Check any domain’s MX, SPF, DKIM and DMARC records in a few seconds, in your browser: see whether a business can receive email and whether anyone can fake it.
 - [Solutions](https://radiuspilot.com/solutions/): How web design studios, local SEO agencies, ads and social agencies and freelance marketers find and win local clients with RadiusPilot.
-- [Pricing](https://radiuspilot.com/pricing/): Start on Starter at $0, upgrade when it pays. Compare the Starter, Pro and Agency plans. Payments aren’t live yet.
+- [Pricing](https://radiuspilot.com/pricing/): Start on Starter at $0 with 25 credits, upgrade when it pays. Compare Starter, Pro and Agency, their credits and the credit packs. Payments aren’t live yet.
+- [Developers: the RadiusPilot API](https://radiuspilot.com/developers/): The RadiusPilot API, in beta: search an area’s businesses with their opportunity scores, check a website and draft outreach with RadiusPilot AI, billed in credits.
 - [Download](https://radiuspilot.com/download/): Download the RadiusPilot test version for Windows 10 and 11: a zip with the app, nothing to install, with its SHA-256 checksum to check the file.
 - [Web app](https://radiuspilot.com/web/): Use RadiusPilot in your browser. Your account and data stay on your device.
 - [Live demo](https://radiuspilot.com/demo/): Try the real RadiusPilot app in your browser on a demo workspace: scans, opportunity scores, outreach drafts and reports, with nothing to install.
@@ -25,8 +26,8 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 
 ## Help center
 - [Install RadiusPilot on Windows](https://radiuspilot.com/help/install/): What you need, how to open the app from the zip, and what to do if Windows warns you.
-- [Your first scan](https://radiuspilot.com/help/first-scan/): Find real businesses around any address in six steps, and see what Starter’s preview scan shows.
-- [Demo data and real data](https://radiuspilot.com/help/demo-data/): How to tell invented data from real businesses, everywhere in the app.
+- [Your first scan](https://radiuspilot.com/help/first-scan/): Find real businesses around any address in five steps, and see what Starter’s preview scan shows.
+- [Real data, and the live demo](https://radiuspilot.com/help/demo-data/): Everything in your account is real. The invented demo workspace lives only in the live demo on this website.
 - [Use RadiusPilot in your browser](https://radiuspilot.com/help/web-app/): The web app: what runs in a browser, what needs the Windows app, where your data lives and how to move it.
 - [Keyboard shortcuts](https://radiuspilot.com/help/shortcuts/): Every keyboard shortcut in RadiusPilot: searching, new scans, jumping between pages, the business lists, mail and call mode. Press ? in the app to see them.
 - [Where the businesses come from](https://radiuspilot.com/help/business-data/): What a real scan finds, why coverage varies, and why some fields stay empty.
@@ -42,7 +43,9 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Your RadiusPilot account](https://radiuspilot.com/help/website-account/): Sign in on this website with Google, keep your account secure, follow support tickets, and export or delete your data.
 - [Two-step verification and backup codes](https://radiuspilot.com/help/two-step/): Add an authenticator code to your sign-in in the app, keep backup codes in case you lose your phone, and lock the app when you step away.
 - [Where your data lives, and how to remove it](https://radiuspilot.com/help/your-data/): Your workspace stays on your computer, or in your browser for the web app. What leaves it, how to back it up, and how to delete it.
-- [Plans and billing](https://radiuspilot.com/help/plans-and-billing/): The three plans, how scans are counted, and why payments aren’t live yet.
+- [Plans and billing](https://radiuspilot.com/help/plans-and-billing/): The three plans and the credits they include, how scans are counted, and why payments aren’t live yet.
+- [Credits and pay as you go](https://radiuspilot.com/help/credits/): What uses credits and what never does, what each plan includes, the credit packs, and what happens when you run out.
+- [The RadiusPilot API](https://radiuspilot.com/help/api/): What the API does, how to join its beta and get a key, what each request costs in credits, and the rules for what it returns.
 
 ## Optional
 - [Changelog](https://radiuspilot.com/changelog/): What’s new in RadiusPilot, release by release: encrypted workspaces, password-protected backups, the web app, and what’s coming next.
