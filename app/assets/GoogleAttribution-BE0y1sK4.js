@@ -1,1 +1,0 @@
-import{d as e}from"./toast-DX1aGR4s.js";import{i as t}from"./motion-DiEo2LM2.js";var n={attr:`_attr_6c9io_3`,line:`_line_6c9io_16`},r=t();function i({className:t,line:i}){return(0,r.jsx)(`span`,{className:e(n.attr,i&&n.line,t),translate:`no`,lang:`en`,children:`Google Maps`})}export{i as t};

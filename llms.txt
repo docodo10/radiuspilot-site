@@ -18,6 +18,7 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Security and data](https://radiuspilot.com/security/): Where RadiusPilot keeps your data, how passwords and mailboxes are protected, and what leaves your computer.
 
 ## Guides
+- [How to write a first email that names one fact](https://radiuspilot.com/guides/first-email-one-fact/): A method for a first email to a local business: pick one fact the owner can check in a minute, write it in five short parts, and follow CASL and CAN-SPAM.
 - [What is a good PageSpeed Insights score?](https://radiuspilot.com/guides/good-pagespeed-insights-score/): A Performance score of 90 to 100 is good. What the bands mean, why the score is a lab test, why it moves between runs, and what Google actually measures.
 - [Website audit checklist for pitching a small business](https://radiuspilot.com/guides/website-audit-checklist/): Ten checks to run on a small business’s website before you pitch: what to look at, how to verify it by hand, and how to turn one finding into a fair email.
 - [How to find local businesses that need a new website](https://radiuspilot.com/guides/find-local-businesses-that-need-a-website/): A step-by-step method for agencies and freelancers: list one neighbourhood’s businesses, check each website, score the gaps and pitch one real fact.
