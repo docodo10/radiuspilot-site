@@ -5,8 +5,16 @@
   <id>https://docodo10.github.io/radiuspilot-site/changelog/</id>
   <link href="https://radiuspilot.com/changelog/"/>
   <link rel="self" href="https://radiuspilot.com/changelog/feed.xml"/>
-  <updated>2026-11-03T12:00:00Z</updated>
+  <updated>2026-11-05T12:00:00Z</updated>
   <author><name>RadiusPilot</name></author>
+  <entry>
+    <id>https://docodo10.github.io/radiuspilot-site/changelog/#v1-analysis</id>
+    <title>Sharper analysis, a clearer map</title>
+    <link href="https://radiuspilot.com/changelog/#v1-analysis"/>
+    <updated>2026-11-05T12:00:00Z</updated>
+    <summary>RadiusPilot 1.0 beta for testers: a map you can read at a glance, business pages that explain every point of the score, a website audit as a checklist, Québec checks and a RadiusPilot AI that knows each kind of business.</summary>
+    <content type="html">&lt;p&gt;RadiusPilot 1.0 beta for testers: a map you can read at a glance, business pages that explain every point of the score, a website audit as a checklist, Québec checks and a RadiusPilot AI that knows each kind of business.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The map never stacks scores on top of each other: nearby businesses fold into one group that splits as you zoom, a card shows each one on hover, and on a phone the list slides up from the bottom&lt;/li&gt;&lt;li&gt;A business’s page explains its score: one paragraph on what’s missing and where to start, each factor with its points and its source, and this area’s median rating and reviews&lt;/li&gt;&lt;li&gt;More from each listing at no extra cost: opening periods, price level, wheelchair access, the number of photos and services such as reservations, takeout or delivery&lt;/li&gt;&lt;li&gt;The website audit is now a checklist of 8 checks that fill in as they run; in the web app, speed, security, search basics and site history run through RadiusPilot’s server too&lt;/li&gt;&lt;li&gt;Québec compliance: French-language content (Bill 96) and privacy (Law 25) signals for businesses in Québec, worded as things to verify, never as legal advice&lt;/li&gt;&lt;li&gt;RadiusPilot AI knows each kind of business: a structured analysis, an action plan and answers to your questions about it&lt;/li&gt;&lt;li&gt;The Windows test version still hasn’t run on a real Windows PC&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://docodo10.github.io/radiuspilot-site/changelog/#v1-beta</id>
     <title>RadiusPilot 1.0 beta</title>

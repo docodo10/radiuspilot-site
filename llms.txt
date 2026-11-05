@@ -34,7 +34,7 @@ RadiusPilot is a Windows app and a web app for marketing agencies and freelancer
 - [Where the businesses come from](https://radiuspilot.com/help/business-data/): What a real scan finds, why coverage varies, and why some fields stay empty.
 - [Reading ScopeMap](https://radiuspilot.com/help/scopemap/): Every business from your scans on one map, coloured by opportunity or by category.
 - [How the opportunity score works](https://radiuspilot.com/help/opportunity-score/): What the score weighs for real businesses, and what High, Medium and Low mean.
-- [What the website checks look at](https://radiuspilot.com/help/website-checks/): During a scan, the Windows app opens each homepage once and notes a few facts. A website audit checks much more.
+- [What the website checks look at](https://radiuspilot.com/help/website-checks/): Each homepage is opened once and a few facts are noted: during a scan in the Windows app, when you open a profile in the web app. A website audit checks much more.
 - [Connect your mailbox](https://radiuspilot.com/help/connect-mailbox/): Send and receive from your own address in the Windows app. Your password stays encrypted on your computer.
 - [Email rules: CASL and CAN-SPAM](https://radiuspilot.com/help/email-rules/): What RadiusPilot adds to help you follow anti-spam law, and what stays your job.
 - [Sequences, follow-ups and automations](https://radiuspilot.com/help/sequences/): Sequences plan your follow-ups and wait for you. Automations run the steps you choose.
